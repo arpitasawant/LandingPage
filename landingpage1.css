@@ -121,7 +121,7 @@ nav .menubtn{
     font-size: 20px;
     margin-left: 50px;
 }
-
+/*Middle Content*/
 .row{
     display: flex;
     justify-content: space-between;
